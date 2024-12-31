@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+<profileinfo name="FN Media Keys"/>
+<keyitems>
+<item key_value="38" fnlayer="1" layoutkeyvalue="0" layoutkeydesc="" macro_type="6" macro_value="3" macro_2value="0" macro_3value="0" macro_desc="Previous"/>
+<item key_value="39" fnlayer="1" layoutkeyvalue="0" layoutkeydesc="" macro_type="6" macro_value="4" macro_2value="0" macro_3value="0" macro_desc="Next"/>
+</keyitems>
+</profile>
