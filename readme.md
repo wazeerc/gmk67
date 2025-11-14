@@ -160,3 +160,7 @@ Known working links for download:
 * [file sharing website (author unknown)](https://files.inbox.lv/shared/file/5f0e7efdc56e8ad317eeecd5f511b4df374ba0be)
 
 ##### Credits: https://gist.github.com/Joao-Peterson/f70257a08c6c2ba1dc353954bef9fe65
+
+---
+
+![gmk67](https://github.com/user-attachments/assets/3002317a-c56e-4657-8e6a-e13895477d56)
